@@ -1,0 +1,22 @@
+.titulo{
+        color: $ColorTitulos;
+        font-size: $TamanioTitulos;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+        text-align: center;  
+    }
+
+.post{
+        color: $ColorLetras;
+        .boton{
+            border-radius: map-get($boton , border-radius);
+            color: map-get($boton , color );
+                 &:hover{
+                    transform: scale(1.5);
+          }
+        } 
+    }
+
+.pie{
+    @include PieIndex ($ColorLetras,map-get($footer , margin),map-get($footer , padding),center);
+}
+

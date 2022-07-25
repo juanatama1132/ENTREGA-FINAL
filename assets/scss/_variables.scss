@@ -1,0 +1,17 @@
+$ColorTitulos: rgb(168, 0, 25);
+$ColorTitulos2: black;
+$TamanioTitulos2: 60px;
+$TamanioTitulos: 85px; 
+$ColorLetras: white;
+$PieLetras: arial; 
+
+$boton:(
+    border-radius: 5px,
+    color: grey,
+);
+
+$footer:(
+    color: $ColorLetras,
+    margin: 5px,
+    padding: 50px,
+)

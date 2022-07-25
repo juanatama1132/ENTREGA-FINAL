@@ -1,0 +1,10 @@
+.contact-form-section {
+  background-image: url("../img/LOGO2.png");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+}
+
+.contact-form-section .container {
+  background-color: rgba(0, 0, 0, 0.7);
+}/*# sourceMappingURL=contacto.css.map */
