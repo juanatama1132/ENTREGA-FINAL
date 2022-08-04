@@ -1,6 +1,18 @@
-.footerTrabj {
+*{
+    margin: 0;
+    padding: 0;
+}
+.pie2{
+    background-color:  rgba(0, 0, 0, 0.7);
+    width: 100%;
+}
+.trabajo{
     text-align: center;
-    font-size: 0.9rem;
-    font-family: Arial, Helvetica, sans-serif;
-    }
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    background-size: cover;}
 
+.trabajo h1{
+    color: $ColorLetras;
+}
+   

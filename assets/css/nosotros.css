@@ -1,3 +1,6 @@
-.navbar {
-  justify-content: center;
+.contenedor {
+  background-image: url(../img/fondonos.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
 }/*# sourceMappingURL=nosotros.css.map */

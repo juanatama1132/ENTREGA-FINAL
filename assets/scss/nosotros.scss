@@ -1,6 +1,35 @@
-.navbar{
-    justify-content: center;
+.contenedor{
+    background-image: url(../img/fondonos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+  
+h1{
+    color: $ColorLetras;
+    background-color: gray;
+   
+}}
+
+.pnos{
+    color: $ColorLetras;
+    background-color: gray;
 }
-.footerNos {
-    @extend .footerTrabj
-    }
+
+.Yout{
+    font-size: $TamanioTitulos2;
+    color: $ColorLetras;   
+}
+
+.ubi{
+    font-size: $TamanioTitulos2;
+    color: $ColorLetras;
+    
+}
+.cont{
+    font-size: $TamanioTitulos2;
+    color: $ColorLetras;
+    text-decoration: underline;
+}
+.redes{
+    display: flex;
+}

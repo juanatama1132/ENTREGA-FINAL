@@ -8,7 +8,8 @@
   .contact-form-section .container {
     background-color: rgba(0, 0, 0, 0.7);
   }
-
-  .footerCont {
-  @extend .footerTrabj
-    }
+.cont2{
+    font-size: $TamanioTitulos2;
+    color: $ColorTitulos2;
+    text-decoration: underline;
+}
